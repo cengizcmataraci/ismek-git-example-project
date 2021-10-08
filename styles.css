@@ -54,9 +54,11 @@ section {
 
 section h2 {
     text-align: center;
+    color: green;
 }
 
 section p {
+    margin-top: 15px;
     font-size: 18px;
 }
 
